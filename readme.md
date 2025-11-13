@@ -132,7 +132,7 @@ Siga os passos abaixo para configurar o ambiente local.
    python manage.py runserver
    ```
 
-## Deploy
+## Deploy(opcional)
 
 ### Plataforma Recomendada: [Render / Railway / AWS]
 
